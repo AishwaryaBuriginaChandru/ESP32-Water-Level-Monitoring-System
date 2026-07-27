@@ -1,0 +1,20 @@
+{
+    "WifiAccessPointName": "ESP32-AP",
+    "WifiAccessPointPassword": "YourAPPassword",
+    "WifiAccessPointIp": "192.168.4.1",
+    "WifiSsid": "YourWiFiSSID",
+    "WifiPassword": "YourWiFiPassword",
+    "UpperTankEmptyDistance": 150,
+    "UpperTankMinTriggerPercent": 20,
+    "UpperTankMaxTriggerPercent": 150,
+    "LowerTankEmptyDistance": 130,
+    "LowerTankMinTriggerPercent": 20,
+    "LowerTankMaxTriggerPercent": 150,
+    "Motor1RunHour": 10,
+    "Motor2RunHour": 0,
+    "Motor1Auto": true,
+    "Motor2Auto": true,
+    "LightAuto": true,
+    "UpsAuto": true,
+    "PageRefreshSeconds": 2
+}
